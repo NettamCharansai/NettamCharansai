@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Nettam Charan Sai
 
-🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer**
+ **Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer**
 
 ---
 
@@ -21,7 +21,7 @@
 - Optimize **data pipelines and databases** for better performance.
 - Participate in **coding challenges and hackathons**.
 
-### 💞 Looking to Collaborate On:
+###  Looking to Collaborate On:
 - Open-source **Machine Learning & Data Science** projects.
 - AI-driven **chatbots and NLP applications**.
 - **End-to-end ML model deployment**.
@@ -33,5 +33,5 @@
 - **Email**: charansainettam@gmail.com
 
 
-🚀 **Let’s build something amazing with AI!**
+ **Let’s build something amazing with AI!**
 
