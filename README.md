@@ -29,7 +29,7 @@
 
 ### 📫 How to Reach Me:
 - **GitHub**: [NettamCharansai](https://github.com/NettamCharansai)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nettam/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nettam/)
 - **Email**: charansainettam@gmail.com
 
 
